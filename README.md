@@ -1,5 +1,8 @@
 # Berita
 
+![video](https://gfycat.com/fancyshallowbasenji)
+
+- Link GIF video: https://gfycat.com/fancyshallowbasenji
 - Link live app: https://react-news-d50c3.web.app
 - Penjelasan terkait project: Aplikasi sederhana menampilkan berita
 - API: thenewsapi
