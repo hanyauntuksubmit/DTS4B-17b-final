@@ -1,6 +1,6 @@
 # Berita
 
-![video](https://gfycat.com/fancyshallowbasenji)
+![video](https://raw.githubusercontent.com/hanyauntuksubmit/DTS4B-17b-final/main/video.gif)
 
 - Link GIF video: https://gfycat.com/fancyshallowbasenji
 - Link live app: https://react-news-d50c3.web.app
